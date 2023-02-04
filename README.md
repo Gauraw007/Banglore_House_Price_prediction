@@ -17,4 +17,4 @@ Create  a  model  to  estimate  the  price  of  houses  in Bengaluru and host it
 ### Data 
 The  data  is  the  most  important  aspect  of  a  machine learning assignment, to which  special attention should  be paid.  Indeed,  the  data  will  heavily  affect  the  findings depending  on  where  we  found  them,  how  they  are presented, if  they are consistent, if there is  an outlier, and so on. Many  questions must  be addressed  at this  stage  to ensure that the learning algorithm is efficient and correct. To obtain, clean, and convert the data, many sub steps are required.  We  will  go  through  these  steps  to  understand how  they've  been  used  in  my  project  and  why  they're helpful for the machine learning section. 
 ### Dataset Dataset: 
-https://www.kaggle.com/ameythakur20/bangalore-house-prices 
+https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
