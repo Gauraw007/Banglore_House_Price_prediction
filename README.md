@@ -3,8 +3,6 @@
 ## Context
 This project was made because I was intrigued and  I wanted  to  gain  hands-on  experience  with  the  Machine Learning Project
 
-## Objective
-As a  first  project, I  intended to  make it  as instructional as possible by tackling each stage of the machine learning process  and attempting  to  comprehend  it well.
 ## METHODOLOGY 
 ### Data Collection
 The statistics were gathered from  Bangalore  home  prices. The  information  includes  many  variables  such  as  area type, availability,  location, BHK, society,  total square feet, bathrooms, and balconies.
